@@ -58,3 +58,25 @@ Version: [1.1.3]
 Developed by: Uday pratap singh
 
 I hope this helps.
+
+### Nsecurity on GitHub
+
+Follow us for updates, behind-the-scenes insights, and community engagement!
+
+Twitter: @Cyberuday 
+GitHub: github.com/cyberuday/Nsecurity 
+Discord: byteprotector01 
+Instagram:cyberuday
+
+### Stay up-to-date with the latest developments:
+
+  Get notified about new releases, bug fixes, and feature updates
+   Participate in discussions, ask questions, and share your feedback
+  Collaborate with the community to improve NSECURITY.
+
+### Contribute to Nsecurity:
+
+   Report issues and help us squash bugs
+  Suggest new features and improvements
+  Fork the repository and submit pull requests.
+
