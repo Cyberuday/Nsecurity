@@ -16,8 +16,12 @@ However, understanding DDoS attacks and how they work can be helpful in network 
 # Key Features:
 
   DDoS Attack Simulator: Test your network's resilience against Distributed Denial of Service (DDoS) attacks and identify vulnerabilities to strengthen your defenses.
-    Website IP Resolver: Quickly retrieve the IP address of any website, helping you to identify potential security risks and track down malicious activity.
-    Internet Status Checker: Monitor your internet connection and detect any issues that may be affecting your online experience.
+
+  
+  Website IP Resolver: Quickly retrieve the IP address of any website, helping you to identify potential security risks and track down malicious activity.
+
+  
+  Internet Status Checker: Monitor your internet connection and detect any issues that may be affecting your online experience.
 
  Disclaimer: Nsecurity is designed for educational and testing purposes only. The DDoS attack simulator should not be used to launch actual attacks on websites or networks, as this is illegal and unethical. Use this tool responsibly and in compliance with applicable laws and regulations.
 System Requirements:
